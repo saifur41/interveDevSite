@@ -1,0 +1,477 @@
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 06:27:05 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 10:54:16 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 14:15:50 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[11-Nov-2020 15:46:02 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[13-Nov-2020 06:07:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 01:05:46 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 15:42:00 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[14-Nov-2020 16:49:36 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 05:50:08 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 15:16:27 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Constant TUTOR_BOARD already defined in /home/lone9378/public_html/questions/inc/connection.php on line 7
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Notice:  Undefined variable: grade_id_list in /home/lone9378/public_html/access-demo.php on line 266
+[15-Nov-2020 22:20:48 CST6CDT] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/lone9378/public_html/access-demo.php on line 266
+[20-Nov-2020 14:58:25 America/New_York] PHP Fatal error:  Call to undefined function phpsession_start() in /home/codyivxh/public_html/header.php on line 1
+[20-Nov-2020 14:58:39 America/New_York] PHP Fatal error:  Call to undefined function phpsession_start() in /home/codyivxh/public_html/header.php on line 1
+[20-Nov-2020 14:58:58 America/New_York] PHP Fatal error:  Call to undefined function phpsession_start() in /home/codyivxh/public_html/header.php on line 1
+[20-Nov-2020 15:00:08 America/New_York] PHP Fatal error:  Call to undefined function phpsession_start() in /home/codyivxh/public_html/header.php on line 1
